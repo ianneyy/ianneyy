@@ -5,4 +5,3 @@
 
 
 
-![Ian's GitHub stats](https://github-readme-stats.vercel.app/api?username=ianneyy&show_icons=true&theme=radical)
